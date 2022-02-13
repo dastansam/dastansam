@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dastansam
 - 👀 I’m interested in everything web3
-- ⛓️ I'm good at Solidity, Rust, Python and Javascript
+- ⛓️ I'm good at `Solidity`, `Rust`, `Python` and `Javascript`
 - 🌱 I’m currently perfecting `Rust` and `WebAssembly`
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me dastansamatov@protonmail.com
